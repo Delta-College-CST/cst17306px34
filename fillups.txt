@@ -1,0 +1,5 @@
+Midland,500,24.3
+Saginaw,550,26.2
+Bay_City,480,23.7
+Freeland,250,11.8
+University_Center,300,15.7
