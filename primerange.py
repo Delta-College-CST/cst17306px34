@@ -1,9 +1,6 @@
-# This program determines the first 100 prime nmbers
-
-PRIME_COUNT = 100
+# This program counts the number of prime numbers between 2000 & 3000
 
 count  = 0      # Will increment when a prim is detected
-number = 2      # Number to test for prime - start at 2
 
 for number in range(2000,3001):
 
